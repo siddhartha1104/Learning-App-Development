@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFA938</color>
+    <color name="purple_500">#FFA938</color>
+    <color name="purple_700">#FFA938</color>
+    <color name="teal_200">#FFA938</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="text_color">#844046</color>
+    <color name="Age_text_color">#FFFFFF</color>
+    <color name="backgroundColor">#FAF1EB</color>
+    <color name="age_bg_color">#C846DCE0</color>
+
+</resources>
